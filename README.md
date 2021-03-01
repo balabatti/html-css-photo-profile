@@ -1,4 +1,4 @@
-# Project Title
+# MY ALBUM
 
 ## Table of Contents
 
